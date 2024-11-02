@@ -38,7 +38,4 @@ To run this project, all you need is a web browser.
    ```bash
    git clone https://github.com/piyushgajbhiye05/rock-paper-scissors-game.git
 
-rock-paper-scissors-game/
-├── index.html       # Main HTML file
-├── style.css        # Styles for the game interface
-└── script.js        # JavaScript file with game logic
+
